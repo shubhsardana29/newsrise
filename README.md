@@ -75,7 +75,7 @@ The app should now be running on your connected device or emulator.
 
 You can access the APK of NewsRise through the following link:
 
-[NewsRise Web App](https://your-deployed-link.com)
+[NewsRise Apk](https://github.com/shubhsardana29/newsrise/releases/tag/v1.0.0)
 
 ## Reference Design Links
 
@@ -83,7 +83,7 @@ You can access the APK of NewsRise through the following link:
 
 ## YouTube Demo
 
-[Watch the YouTube Demo](https://www.youtube.com/watch?v=your-youtube-link)
+[Watch the YouTube Demo](https://youtu.be/vPnlMGtJgOQ)
 
 ## Contributions
 
