@@ -16,10 +16,12 @@ NewsRise is a Flutter app that allows users to view top headlines news. The app 
 ## Screenshots
 
 ![Screenshot 2023-07-20 at 5 22 23 PM Background Removed](https://github.com/shubhsardana29/newsrise/assets/52607235/e532fef5-db9b-4646-8e03-275fc1242d60)
+<img width="1440" alt="Screenshot 2023-07-20 at 5 22 58 PM" src="https://github.com/shubhsardana29/newsrise/assets/52607235/b68b1db4-6473-41b0-b257-350ae22c046a">
+
 <img width="1440" alt="Screenshot 2023-07-20 at 5 30 50 PM" src="https://github.com/shubhsardana29/newsrise/assets/52607235/c409c63b-92d9-4cc2-9d61-341e3af1e283">
 <img width="1440" alt="Screenshot 2023-07-20 at 5 31 02 PM" src="https://github.com/shubhsardana29/newsrise/assets/52607235/81da0809-a810-4749-a766-b8c28b9307a1">
-![Screenshot 2023-07-20 at 5 30 30 PM Background Removed](https://github.com/shubhsardana29/newsrise/assets/52607235/d3fceb1e-6148-4e73-9475-a68e58ea82e3)
-![Screenshot 2023-07-20 at 5 31 11 PM Background Removed](https://github.com/shubhsardana29/newsrise/assets/52607235/5f9795ef-a064-4f5f-b34f-fcae4ce76ab7)
+
+![Screenshot 2023-07-20 at 5 31 11 PM Background Removed](https://github.com/shubhsardana29/newsrise/assets/52607235/dba04394-0905-441e-8583-3e93d94f134c)
 
 
 ## Requirements
@@ -69,15 +71,15 @@ The app should now be running on your connected device or emulator.
 
 8. To search for articles, type keywords in the search bar in Recently viewed tab.
 
-## Deployed Link
+## APK Link
 
-You can access the deployed version of NewsRise through the following link:
+You can access the APK of NewsRise through the following link:
 
 [NewsRise Web App](https://your-deployed-link.com)
 
 ## Reference Design Links
 
-- [Dribbble Design ]([https://dribbble.com/shots/12368277-News-App](https://dribbble.com/shots/20391043-News-App))
+- [Dribbble Design ](https://dribbble.com/search/news-app)
 
 ## YouTube Demo
 
