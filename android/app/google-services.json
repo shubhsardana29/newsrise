@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "806949591441",
+    "project_id": "newsrise-73f69",
+    "storage_bucket": "newsrise-73f69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806949591441:android:c529074add2f2b4ae82230",
+        "android_client_info": {
+          "package_name": "com.example.newsrise"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806949591441-e0b23vufvask21qpg9vbtrqep01uc2tq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1s9Oy3jC_nnUu8TCun_XLjB0ThXVQb-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806949591441-e0b23vufvask21qpg9vbtrqep01uc2tq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
