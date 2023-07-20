@@ -26,7 +26,7 @@ NewsRise is a Flutter app that allows users to view top headlines news. The app 
 
 ## Requirements
 
-- Flutter: v2.0.0 or higher
+- Flutter: v3.0.0 or higher
 - Dart: v2.12.0 or higher
 - Firebase authentication and Firestore services
 
