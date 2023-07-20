@@ -1,6 +1,8 @@
 # NewsRise
-![NEWS RISE (1)](https://github.com/shubhsardana29/newsrise/assets/52607235/52acabdc-10a6-4a6e-bf59-c5b4b2823fd6)
-NewsRise is a Flutter app that allows users to view top headlines news. The app fetches news data from the NewsAPI service ```https://newsapi.org/``` and displays it in a carousel slider. Users can also view their recently viewed articles and save articles for later reading.
+<div align="center">
+  <img src="https://github.com/shubhsardana29/newsrise/assets/52607235/52acabdc-10a6-4a6e-bf59-c5b4b2823fd6" alt="NEWS RISE" />
+</div>
+NewsRise is a Flutter app that allows users to view top headlines news. The app fetches news data from the NewsAPI service https://newsapi.org and displays it in a carousel slider. Users can also view their recently viewed articles and save articles for later reading.
 
 ## Features
 
