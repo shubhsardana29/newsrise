@@ -53,17 +53,18 @@ The app should now be running on your connected device or emulator.
 
 ## How to Use
 
-1. Upon launching the app, you will see a carousel slider displaying top headlines from the business category.
+1. Upon launching the app, you will be greeted with a splash screen that animates with a fading effect. After a short delay, the app will automatically navigate to the sign-in page.
 
-2. Swipe left or right to view different articles in the carousel.
+2. On the sign-in page, you can enter your email and password to sign in. If you don't have an account, you can tap on the "Create Account" button to create a new account.
+3. After signing in, you will see a carousel slider displaying top headlines from the business category.
+4. Swipe left or right to view different articles in the carousel.
+5. Tap on an article to view its details.
 
-3. Tap on an article to view its details.
+6. To save an article for later reading, tap on the bookmark icon. The saved articles will be synced with Firebase Cloud Firestore, ensuring you can access them from any device.
 
-4. To save an article for later reading, tap on the bookmark icon. The saved articles will be synced with Firebase Cloud Firestore.
+7. To view your saved articles, switch to the "Saved Articles" tab. The saved articles will be retrieved from Firestore and displayed in the list.
 
-5. To view your saved articles, switch to the "Saved Articles" tab. The saved articles will be retrieved from Firestore and displayed in the list.
-
-6. To search for articles, type keywords in the search bar.
+8. To search for articles, type keywords in the search bar in Recently viewed tab.
 
 ## Deployed Link
 
